@@ -1,10 +1,10 @@
 # Wyatt_Portfolio
 
-![ ](url)
+![ ](images/url)
 
 Data Science Portfolio
 
-# [Project 1: Description](url)
+# [Project 1: Description](images/url)
 * Created
 * Scraped
 * Engineered
@@ -19,5 +19,5 @@ Data Science Portfolio
 
 ## Improvements
 
-# [Project 2: Description](url)
+# [Project 2: Description](images/url)
 
