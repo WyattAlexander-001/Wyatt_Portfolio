@@ -1,4 +1,7 @@
 # Wyatt_Portfolio
+
+![ ](url)
+
 Data Science Portfolio
 
 # [Project 1: Description](url)
@@ -7,6 +10,8 @@ Data Science Portfolio
 * Engineered
 * Optimized
 * Built a client facing API using FLask
+
+
 
 ## Overview 
 
