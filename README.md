@@ -6,7 +6,7 @@
 
 # [Project 1: Description](https://github.com/WyattAlexander-001/Covid_Analysis__Visual_Portfolio_Project_SQL)
 * Created a data analysis and visualization for Covid-19 infection rates and death percentages up to the date of 7/17/2021.
-* Data was gathered from "Our World in Data" Link: https://ourworldindata.org/covid-deaths
+* Data was gathered from "Our World in Data" link: https://ourworldindata.org/covid-deaths
 * Used SQL for analyzing data regarding infection rate and death percentages based on continent, and country. Table were created using Excel. Excel tables were then imported into Tableau for visualization.
 
 ![ ](https://github.com/WyattAlexander-001/Covid_Analysis__Visual_Portfolio_Project_SQL/blob/main/COVID_19_Portfolio_Project_7-17-2021/Tableau_Images/Final%20Dash.PNG)
@@ -17,7 +17,9 @@
 
 ## [Results](https://public.tableau.com/app/profile/wyatt1368/viz/COVIDDeathAnalysisGlobalNumbersDashboard/Dashboard1)
 
-Used SQL to first analyze the global numbers of people infected and death percentage from COVID-19. As of 7/17/2021 over 4 million people died of COVID-19 out of the over 189 million people reported as infected. The death percentage is 2.15%, which means that on a global scale, for every 100 people infected with COVID-19, 2 people die.
+Used [SQL](https://github.com/WyattAlexander-001/Covid_Analysis__Visual_Portfolio_Project_SQL/blob/main/COVID_19_Portfolio_Project_7-17-2021/Covid-SQL.sql) to first analyze the global numbers of people infected and death percentage from COVID-19. 
+
+As of 7/17/2021 over 4 million people died of COVID-19 out of the over 189 million people reported as infected. The death percentage is 2.15%, which means that on a global scale, for every 100 people infected with COVID-19, 2 people die.
 
 ![ ](https://github.com/WyattAlexander-001/Covid_Analysis__Visual_Portfolio_Project_SQL/blob/main/COVID_19_Portfolio_Project_7-17-2021/Tableau_Images/Covid_Global_Numbers.PNG)
 
@@ -39,7 +41,7 @@ Putting everything in one view.
 
 ## Improvements
 
-Would like to understand why Our World in Data is missing data from China, new information results may have alter results.
+Would like to understand why, "Our World in Data," is missing data from China, new information results may have alter results.
 
 # [Project 2: Description](images/url)
 
