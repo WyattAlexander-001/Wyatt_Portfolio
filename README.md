@@ -4,7 +4,7 @@
 
 Data Science Portfolio
 
-# [Project 1: Description](images/Covid-19_Tableau_Images/Covid_Global_Numbers.PNG)
+# [Project 1: Description](https://github.com/WyattAlexander-001/Covid_Analysis__Visual_Portfolio_Project_SQL)
 * Created
 * Scraped
 * Engineered
