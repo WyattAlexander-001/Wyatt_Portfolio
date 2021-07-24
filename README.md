@@ -1,6 +1,6 @@
 # Wyatt's_Portfolio
 
-![ ](https://github.com/WyattAlexander-001/Wyatt_Portfolio/blob/main/images/SmallerProfile.png)
+![ ](images/images/SmallerProfile.png)
 
 # Data Science Portfolio
 
