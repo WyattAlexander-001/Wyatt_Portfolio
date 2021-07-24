@@ -1,8 +1,8 @@
-# Wyatt_Portfolio
+# Wyatt's_Portfolio
 
 ![ ](images/url)
 
-Data Science Portfolio
+# Data Science Portfolio
 
 # [Project 1: Description](https://github.com/WyattAlexander-001/Covid_Analysis__Visual_Portfolio_Project_SQL)
 * Created
