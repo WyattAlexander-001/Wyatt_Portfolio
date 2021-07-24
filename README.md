@@ -4,7 +4,7 @@
 
 Data Science Portfolio
 
-# [Project 1: Description](images/url)
+# [Project 1: Description](images/Covid-19_Tableau_Images/Covid_Global_Numbers.PNG)
 * Created
 * Scraped
 * Engineered
@@ -21,3 +21,6 @@ Data Science Portfolio
 
 # [Project 2: Description](images/url)
 
+
+
+![ ](images/url)
