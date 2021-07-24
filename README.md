@@ -1,6 +1,6 @@
 # Wyatt's_Portfolio
 
-![ ](images/images/SmallerProfile.png)
+![ ](images/SmallerProfile.png)
 
 # Data Science Portfolio
 
