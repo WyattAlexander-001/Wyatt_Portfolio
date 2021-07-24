@@ -31,7 +31,7 @@ Looking another level lower; by country, I used a hit map to visualize the sever
 
 ![ ](https://github.com/WyattAlexander-001/Wyatt_Portfolio/blob/main/images/Covid-19_Tableau_Images/World_View.PNG)
 
-Lastly, I created a forecast to see where infection rates will be looking 6 months to the future with the most infected countries. United States is forecasted to have a 15.14% infected populace by March of 2022 and the United Kingdom at 10.55%
+Lastly, I created a forecast to see where infection rates may be, 6 months into the future, looking at the most infected countries. United States is forecasted to have a 15.14% infected populace by March of 2022 and the United Kingdom at 10.55%
 
 ![ ](https://github.com/WyattAlexander-001/Wyatt_Portfolio/blob/main/images/Covid-19_Tableau_Images/Line_Chart.PNG)
 
