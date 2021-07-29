@@ -43,7 +43,7 @@ Putting everything in one view.
 
 Would like to understand why, "Our World in Data," is missing data from China, new information results may have alter results.
 
-# [Project 2: Description](images/url)
+# [Project 2: Nashville Housing Data Cleaning Process](https://github.com/WyattAlexander-001/Nashville_Housing_Data_SQL_Cleaning)
 
 
 
