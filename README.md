@@ -56,7 +56,7 @@ Purpose of project was to go over a cleaning process for data using only SQL. Af
 
 Data cleaning, is a core part of data analysis and specific actions are taken on a case by case basis. An exmample would be NULL values. They are important and must be addressed with care. Sometimes the NULL values can be replaced with a 0, the mean, median, mode, or simply deleted. Each action should have a record of being taken for clarity and data integrity.
 
-# [Project 3: Walmart Data Analysis Using Jupyter Notebook](https://github.com/WyattAlexander-001/Walmart_Data_Analysis_Kaggle/blob/main/Walmart_Data_Analysis.ipynb)
+# [Project 3: Walmart Data Analysis Using Jupyter Notebook](https://github.com/WyattAlexander-001/Walmart_Data_Analysis_Kaggle)
 
 ## Overview
 
