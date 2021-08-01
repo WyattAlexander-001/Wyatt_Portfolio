@@ -9,6 +9,7 @@
 * Data was gathered from "Our World in Data" link: https://ourworldindata.org/covid-deaths
 * Used SQL for analyzing data regarding infection rate and death percentages based on continent, and country. Table were created using Excel. Excel tables were then imported into Tableau for visualization.
 
+
 ![ ](/images/Covid-19_Tableau_Images/Final Dash.PNG)
 
 ## Overview 
