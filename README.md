@@ -13,7 +13,7 @@
 
 ## Overview 
 
-
+Purpose of project was to analyze most recent data on COVID. Tables were prepared using SQL and visualized with Tableau
 
 ## [Results](https://public.tableau.com/app/profile/wyatt1368/viz/COVIDDeathAnalysisGlobalNumbersDashboard/Dashboard1)
 
@@ -45,6 +45,14 @@ Would like to understand why, "Our World in Data," is missing data from China, n
 
 # [Project 2: Nashville Housing Data Cleaning Process](https://github.com/WyattAlexander-001/Nashville_Housing_Data_SQL_Cleaning)
 
+## Overview
 
+Purpose of project was to go over a cleaning process for data using only SQL. After creating a new working table to keep original preserved, the cleaning process went over: formatting date/time, fixing null values, deleting duplicates, lastly, parsing addresses to be more readable and useable. Comments are alongside code for future reference.
 
 ![ ](images/url)
+
+# [Project 3: Walmart Data Analysis Using Jupyter Notebook](https://github.com/WyattAlexander-001/Walmart_Data_Analysis_Kaggle/blob/main/Walmart_Data_Analysis.ipynb)
+
+##
+
+Purpose of project was to perform EDA on [Walmart data supplied by Kaggle.](https://www.kaggle.com/rutuspatel/retail-analysis-with-walmart-sales-data)
