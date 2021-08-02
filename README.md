@@ -67,7 +67,7 @@ Data cleaning, is a core part of data analysis and specific actions are taken on
 
 Purpose of project was to perform EDA on Walmart data. The information included had data on weekly sales, markers for holiday weeks, temperature on the day of sale, CPI, and unemployment rate. Dataset was supplied by [Kaggle.](https://www.kaggle.com/rutuspatel/retail-analysis-with-walmart-sales-data)
 
-## Results
+## [Results](https://github.com/WyattAlexander-001/Walmart_Data_Analysis_Kaggle/blob/main/Walmart_Data_Analysis.ipynb)
 
 After importing the dataset data cleaning was performed and found no null values. Removed any duplicate information, and then performed analysis.
 
