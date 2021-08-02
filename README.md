@@ -1,9 +1,9 @@
 ## Wyatt Bushman : Portfolio Website
 Contact information:
 
-E: wyattbushman117@gmail.com
+Email: wyattbushman117@gmail.com
 
-C: 518-419-8230
+Cell: 518-419-8230
 
 ![ ](images/SmallerProfile.png)
 
