@@ -112,4 +112,4 @@ Purpose of project was to import a hotel dataset, clean and then present visuals
 
 # Guests without children book more weekend nights
 
-![ ]/images/Hotel_booking_visuals/weekend_booking_vs_number_of_children.PNG)
+![ ](/images/Hotel_booking_visuals/weekend_booking_vs_number_of_children.PNG)
