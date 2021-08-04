@@ -87,3 +87,29 @@ Store #33 total sales were: $50 million.
 ## Improvements
 
 Would like a more comprehensive dataset to analyze. This dataset, only covers a specific region of Walmart’s with too few parameters.
+
+# [Project 4: Hotel Booking Data Analysis With The R Programming Language ](https://github.com/WyattAlexander-001/R_Data_Cleaning_Hotel_Bookings/blob/main/README.md)
+
+# Overview
+
+Purpose of project was to import a hotel dataset, clean and then present visuals.
+
+## Results
+
+# Cleaning process 
+*Renamed hotel to hotel_type to be more specific
+*Combined month and year into one column with unite
+*Created new column that summed all the adults, children, and babies on a reservation for the total number of people
+
+#Analysis
+*Found total number of canceled bookings and average lead time for booking
+*Found guest(s) with children do not affect hotel booking (Image 1)
+*Found guest(s) without children book more weekend nights (Image 2)
+
+# Children do not affect hotel booking timing
+
+![ ](/images/booking_lead_vs_number%20of%20children.PNG)
+
+# Guests without children book more weekend nights
+
+![ ](/images/weekend_booking_vs_number_of_children.PNG)
