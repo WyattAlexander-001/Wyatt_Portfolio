@@ -88,7 +88,7 @@ Store #33 total sales were: $50 million.
 
 Would like a more comprehensive dataset to analyze. This dataset, only covers a specific region of Walmart’s with too few parameters.
 
-# [Project 4: Hotel Booking Data Analysis With The R Programming Language ](https://github.com/WyattAlexander-001/R_Data_Cleaning_Hotel_Bookings/blob/main/README.md)
+# [Project 4: Hotel Booking Data Analysis With The R Programming Language ](https://github.com/WyattAlexander-001/R_Data_Cleaning_Hotel_Bookings)
 
 # Overview
 
