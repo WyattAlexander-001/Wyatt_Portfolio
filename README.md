@@ -88,11 +88,32 @@ Store #33 total sales were: $50 million.
 
 Would like a more comprehensive dataset to analyze. This dataset, only covers a specific region of Walmart’s with too few parameters.
 
-# [Project 4: Hotel Booking Data Analysis With The R Programming Language ](https://github.com/WyattAlexander-001/R_Data_Cleaning_Hotel_Bookings)
+# [Project 4: Palmer Penguin Analysis Body Mass And Flipper Length With The R Programming Language](https://github.com/WyattAlexander-001/R_Palmer_Penguin_Analysis)
 
 # Overview
 
-Purpose of project was to import a hotel dataset, clean and then present visuals.
+Purpose of project was to import the "Palmer Penguins" dataset, and see the correlation between body mass and flipper length. The three penguin species were: Adelie, Gentoo, and Chinstrap.
+
+# Results
+
+There was a positive correlation between flipper length and body mass, and the penguins with the largest body mass and flipper length are the Gentoos. The bigger the penguin, the larger the flipper mass, and this was present across all three species.
+
+First, a scatter plot was made to see the general correlation between flipper length and body mass.
+![ ](/images/Palmer_Penguin_visuals/Positive_Correlation_Line.PNG)
+
+Secondly, after seeing a clear correlation between flipper length and bodymass, three separate graphs were made to highlight the differences between all the species
+![ ](/images/Palmer_Penguin_visuals/sorted_by_species.PNG)
+
+Lastly, to wrap up, a final graphic was made to show how they compare to one another. The conclusion was that there is a strong correlation between flipper length and bodymass, with Gentoos being the largest. 
+![ ](/images/Palmer_Penguin_visuals/Final_Image_Palmer_Penguins.PNG)
+
+# Results
+
+# [Project 5: Hotel Booking Data Analysis With The R Programming Language ](https://github.com/WyattAlexander-001/R_Data_Cleaning_Hotel_Bookings)
+
+# Overview
+
+Purpose of project was to import the hotel dataset, clean and then present visuals. Analysis focused on hotel bookings, and wanted tot he answer the question, "If the guest(s) have children, does that affect their bookings compared to guest(s) without children?"   
 
 ## Results
 
