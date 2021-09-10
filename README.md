@@ -49,11 +49,57 @@ Putting everything in one view.
 
 Would like to understand why, "Our World in Data," is missing data from China, new information results may have alter results.
 
-# [Project 2: Nashville Housing Data Cleaning Process](https://github.com/WyattAlexander-001/Nashville_Housing_Data_SQL_Cleaning)
+# [Project 2: ESRB Rating System Analysis Using Jupyter Notebooks](https://github.com/WyattAlexander-001/ESRB_Rating_Analysis/tree/main/ESRB)
 
 ## Overview
 
-Purpose of project was to go over a cleaning process for data using only SQL. After creating a new working table to keep the original preserved, the cleaning process went over: formatting date/time, fixing null values, deleting duplicates, and lastly, parsing addresses to be more readable and useable. Comments are alongside code for future reference.
+Purpose of this project was to analyze and predict the efficiency of the ESRB Rating System using Python's Jupyter Notebooks via the Anaconda Data Science Suite.
+* Verified integrity and cleaned data
+* Created visualization of ESRB rating system in Jupyter Notebooks.
+* Implemented decision tree and random forests model to predict ESRB rating accuracy.
+
+
+## Results
+
+# First, I Analyzed 
+# Checked correlation of all columns and found correlation between ESRB rating and common themes ESRB criteria flags, eg: (blood, gore, sexual themes, violence, strong language)
+![ ](images/ESRB_pics_Port/heat_map_ESRB.JPG)
+
+# Upon finding correlation, I then visualized the large differences in volumes of these ESRB flags. There were more games with ESRB criteria flags
+
+# Eg: found
+# Blood
+![ ](/images/ESRB_pics_Port/is_there_blood.JPG)
+# Gore
+![ ](/images/ESRB_pics_Port/is_there_gore_total.JPG)
+# Strong Language
+![ ](/images/ESRB_pics_Port/str_lng_ESRB.JPG)
+
+# Interesting enough, while many games with blood and strong language are found in the M rating, the majority of games in total, and include these themes are in the "T" rating.
+![ ](/images/ESRB_pics_Port/total_ratings.JPG)
+
+# A pie chart showing all the ratings
+
+![ ](/images/ESRB_pics_Port/tota_ratings_pie.JPG)
+
+# Performed Decision Tree Classifier & Random Forests
+
+To verify the accuracy of the ESRB, I implemented I created a decision tree classifier and random forests model. The results were both greater than 80% showing that the ESRB rating system is an effective tool in classifying video games via their mature themes.
+
+# Conclusion
+
+The ESRB rating is an effective method to rate video games based on their mature themes with an accuracy rating of 85%
+
+# Improvements
+
+Would like to run same test but on video games from all generations. The ESRB rating was introduced during the 16-bit era of video games so you would likely excluded the eras before it.
+
+
+# [Project 3: Nashville Housing Data Cleaning Process SQL](https://github.com/WyattAlexander-001/Nashville_Housing_Data_SQL_Cleaning)
+
+## Overview
+
+Purpose of this project was to go over a cleaning process for data using only SQL. After creating a new working table to keep the original preserved, the cleaning process went over: formatting date/time, fixing null values, deleting duplicates, and lastly, parsing addresses to be more readable and useable. Comments are alongside code for future reference.
 
 ![ ](/images/SQL_Cleaning.PNG)
 
@@ -61,7 +107,7 @@ Purpose of project was to go over a cleaning process for data using only SQL. Af
 
 Data cleaning, is a core part of data analysis and specific actions are taken on a case by case basis. An exmample would be NULL values. They are important and must be addressed with care. Sometimes the NULL values can be replaced with a 0, the mean, median, mode, or simply deleted. Each action should have a record of being taken for clarity and data integrity.
 
-# [Project 3: Walmart Data Analysis Using Jupyter Notebook](https://github.com/WyattAlexander-001/Walmart_Data_Analysis_Kaggle)
+# [Project 4: Walmart Data Analysis Using Jupyter Notebook](https://github.com/WyattAlexander-001/Walmart_Data_Analysis_Kaggle)
 
 ## Overview
 
@@ -88,7 +134,7 @@ Store #33 total sales were: $50 million.
 
 Would like a more comprehensive dataset to analyze. This dataset, only covers a specific region of Walmart’s with too few parameters.
 
-# [Project 4: Palmer Penguin Analysis Body Mass And Flipper Length With The R Programming Language](https://github.com/WyattAlexander-001/R_Palmer_Penguin_Analysis)
+# [Project 5: Palmer Penguin Analysis Body Mass And Flipper Length With The R Programming Language](https://github.com/WyattAlexander-001/R_Palmer_Penguin_Analysis)
 
 # Overview
 
@@ -109,7 +155,7 @@ Lastly, to wrap up, a final graphic was made to show how they compare to one ano
 
 # Results
 
-# [Project 5: Hotel Booking Data Analysis With The R Programming Language ](https://github.com/WyattAlexander-001/R_Data_Cleaning_Hotel_Bookings)
+# [Project 6: Hotel Booking Data Analysis With The R Programming Language ](https://github.com/WyattAlexander-001/R_Data_Cleaning_Hotel_Bookings)
 
 # Overview
 
