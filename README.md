@@ -49,7 +49,7 @@ Putting everything in one view.
 
 Would like to understand why, "Our World in Data," is missing data from China, new information results may have alter results.
 
-# [Project 2: ESRB Rating System Analysis Using Jupyter Notebooks](https://github.com/WyattAlexander-001/ESRB_Rating_Analysis/tree/main/ESRB)
+# [Project 2: ESRB Rating System Analysis Using Jupyter Notebooks](https://github.com/WyattAlexander-001/ESRB_Rating_Analysis/blob/main/ESRB/ESRB_V1.ipynb)
 
 ## Overview
 
@@ -61,7 +61,10 @@ Purpose of this project was to analyze and predict the efficiency of the ESRB Ra
 
 ## Results
 
-# First, I Analyzed 
+# Prep Work
+
+Prior to visualizations, I made sure to import the appropriate data science libraries (NumPy, Pandas, matplotlib). Performed EDA on data, which is checking the number of rows and columns, and then performed data wrangling which is to verify if data has no null values. The data was clean with zero null values. [All code can be found here with accompanying comments.](https://github.com/WyattAlexander-001/ESRB_Rating_Analysis/blob/main/ESRB/ESRB_V1.ipynb)
+
 # Checked correlation of all columns and found correlation between ESRB rating and common themes ESRB criteria flags, eg: (blood, gore, sexual themes, violence, strong language)
 ![ ](images/ESRB_pics_Port/heat_map_ESRB.JPG)
 
