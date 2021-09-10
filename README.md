@@ -68,9 +68,9 @@ Prior to visualizations, I made sure to import the appropriate data science libr
 # Checked correlation of all columns and found correlation between ESRB rating and common themes ESRB criteria flags, eg: (blood, gore, sexual themes, violence, strong language)
 ![ ](images/ESRB_pics_Port/heat_map_ESRB.JPG)
 
-# Upon finding correlation, I then visualized the large differences in volumes of these ESRB flags. There were more games with ESRB criteria flags
+# Visualize The Gap Between Violence and Kid Friendly
+I then visualized the large differences in volumes of these ESRB flags. There were more games with ESRB criteria flags than games without Them. Examples below include: blood, gore, and strong language.
 
-# Eg: found
 # Blood
 ![ ](/images/ESRB_pics_Port/is_there_blood.JPG)
 # Gore
@@ -78,7 +78,9 @@ Prior to visualizations, I made sure to import the appropriate data science libr
 # Strong Language
 ![ ](/images/ESRB_pics_Port/str_lng_ESRB.JPG)
 
-# Interesting enough, while many games with blood and strong language are found in the M rating, the majority of games in total, and include these themes are in the "T" rating.
+# Majority of Games With ESRB flags are M and T Rated. 
+
+Interesting enough, while many games with blood and strong language are found in the M rating, which is to be expected. The majority of games in total, and include these themes are in the "T" rating.
 ![ ](/images/ESRB_pics_Port/total_ratings.JPG)
 
 # A pie chart showing all the ratings
